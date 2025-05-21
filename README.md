@@ -1,5 +1,5 @@
 # Exno.8-Prompt-Engg
-# Date:7/5/25
+# Date:
 # Register no.
 # Aim: To perform the Exploration of Prompting Techniques for Audio Generation
 # Algorithm: Explore how various prompting techniques can be used to generate and manipulate audio content (e.g., music, sound effects, voice narration) using AI model
@@ -41,7 +41,4 @@ Imitation with Guidance: “Generate a clone of this speaker, but make it sound 
 
 Voice Style Transfer: “Speak this sentence in the style of a movie trailer voiceover.”
 
-
-
-# Result:
-The Prompt for the above process executed successfully
+# Result: The Prompt for the above process executed successfully
